@@ -2,7 +2,7 @@
 
 namespace App\Helpers;
 
-use Illuminate\Http\Response;
+use Symfony\Component\HttpFoundation\Response;
 use Illuminate\Http\Resources\Json\JsonResource;
 
 class ApiResponse
